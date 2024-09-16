@@ -4,5 +4,6 @@
     "project_description": "an app for cricket scoring",
     "creation_time": "2024-09-16 11:54:15.241856",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image uses a vibrant and surreal color scheme dominated by shades of pink and purple, giving it a cosmic and dreamlike atmosphere, with dark mountainous silhouettes contrasting against a bright celestial backdrop."
 }
